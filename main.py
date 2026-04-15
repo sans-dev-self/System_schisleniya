@@ -12,4 +12,4 @@ for i in range(len_num,-1,-1):
         result += int(char) * n**i
     elif char.isalpha():
         result += (ord(char) - 55) * n**i
-print(result)#
+print(result)#😍😍😎🤩🤩
