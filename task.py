@@ -10,3 +10,4 @@ while num > 0:
         result += str(rem)
     num //= n
 print(result[::-1])
+#
